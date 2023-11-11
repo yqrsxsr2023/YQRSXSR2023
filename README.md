@@ -3,13 +3,13 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (野鹤)</a href="www.boygirl.fun">
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (野鹤)</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
  
 <!--my introduction start-->
     
-👋 <h4>大家好，我是野鹤</h4></br>
+👋 <h4>大家好，我是野鹤</h4 href="www.boygirl.fun"></br>
 👀 我对从底层结构感兴趣</br>
 🌱 我目前正在学习计算机原理</br>
 💞️ 我正在学习编程语言:Java,C++</br>
